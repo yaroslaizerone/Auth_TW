@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "834192720868",
+    "project_id": "auth-tw12",
+    "storage_bucket": "auth-tw12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834192720868:android:8c7aa0fd443ff3c767bdf1",
+        "android_client_info": {
+          "package_name": "com.example.auth_tw"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834192720868-l7rhs4hag4nal9ds9jl0j2knbr4b44d4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWubmN4McwYUPbrUr66VQvN84NJSsr3YQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834192720868-l7rhs4hag4nal9ds9jl0j2knbr4b44d4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
